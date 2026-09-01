@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.webp" width="100%" alt="Marblezs Banner">
+  <img src="./assets/imagenuno.png" width="100%" alt="Marblezs Banner">
 </p>
 
 <p align="center">
