@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Software+Developer;Web+%E2%80%A2+Backend+%E2%80%A2+Game+Systems;Currently+learning+React+%26+TypeScript"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Software+Developer;Web+%E2%80%A2+Backend+%E2%80%A2+Game+Systems;Currently+learning+Better+%26+Things"
   />
 </p>
 
@@ -12,7 +12,7 @@
 
 <p align="center"> I enjoy building things across different areas of software development, from web interfaces and backend systems to game tools. </p>
 
-<p align="center"> I mainly work with <b>Java, JavaScript, HTML and CSS</b>, while experimenting with <b>python</b> and currently learning <b>React</b> and modern web development. </p>
+<p align="center"> I mainly work with <b>Java, JavaScript, HTML and CSS</b></p>
 
 ## About Me
 
