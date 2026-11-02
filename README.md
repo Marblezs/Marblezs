@@ -4,7 +4,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Software+Developer;Web+%E2%80%A2+Backend+%E2%80%A2+Game+Systems;Currently+learning+Better+%26+Things"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Software+Developer;Web+%E2%80%A2+Backend+%E2%80%A2+Game+Systems;Currently+learning+Better+Things"
   />
 </p>
 
