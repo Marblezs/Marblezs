@@ -31,7 +31,7 @@
 
 `Lua` · `Luau` -- 2 Years of roblox dev.
 
-### Currently Exploring
+### Maybe someday i'll explore
 
 `React` · `TypeScript` · `Node.js` · `REST APIs` · `Gattling`
 
@@ -50,7 +50,7 @@ Software Development
 ├── Web Applications
 │   ├── Responsive Interfaces
 │   ├── Interactive Websites
-│   └── React Applications
+│   └── Maybe react
 │
 ├── Backend
 │   ├── APIs
@@ -68,50 +68,13 @@ Software Development
     └── Developer Utilities
 ```
 
-## Featured Projects
-
-### VoidUHC (Private)
-
-A complete UHC hosting system built around game configuration, world management, scenarios, statistics and competitive gameplay.
-
-`Java` `Paper` `SQLite`
-
-### VoidTeams (Public)
-
-<a href="https://github.com/Marblezs/VoidTeams">
-  <img
-    src="https://github-stats-extended.vercel.app/api/pin/?username=Marblezs&repo=VoidTeams&theme=github_dark"
-    alt="VoidTeams"
-  />
-</a>
-
-
-`Java` `Paper` `Maven`
-
-### VoidAC (Private)
-
-Experimental anti-cheat project focused on movement, combat and player behavior analysis.
-
-`Java` `Networking` `Game Systems`
-
-### Web Projects
-
-Modern websites and interfaces focused on responsive design, animations and user experience.
-
-`HTML` `CSS` `JavaScript` `React`
+## Portfolio
+Coming soon
 
 ## Currently Learning
 
-I'm currently focusing on:
+Making better Things on minecraft
 
-* React
-* Modern JavaScript
-* TypeScript
-* REST APIs
-* External libraries
-* Better software architecture
-* Testing
-* CI/CD
 
 ---
 
