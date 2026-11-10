@@ -1,82 +1,61 @@
+ 
 <p align="center">
   <img src="./assets/imagenuno.png" width="100%" alt="Marblezs Banner">
 </p>
 
 <p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Software+Developer;Web+%E2%80%A2+Backend+%E2%80%A2+Game+Systems;Currently+learning+Better+Things"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=1000&color=8B949E&center=true&vCenter=true&width=550&lines=Software+Developer;Java+%E2%80%A2+Web+%E2%80%A2+Game+Systems;Focused+on+Minecraft+Development" />
 </p>
 
-<h2 align="center"> Software Developer — Web, Backend & Game Systems </h2>
+<h2 align="center">Software Developer — Java, Web & Game Systems</h2>
 
-<p align="center"> I enjoy building things across different areas of software development, from web interfaces and backend systems to game tools. </p>
+<p align="center">
+  I enjoy building software, developing backend systems and creating tools for games.
+</p>
 
-<p align="center"> I mainly work with <b>Java, JavaScript, HTML and CSS</b></p>
+<p align="center">
+  My main focus is <b>Java development and Minecraft plugins.</b>
+</p>
 
 ## About Me
 
-* Building web applications and backend systems
-* Developing game and Minecraft server tools
-* Experimenting with Python projects and automation
-* Currently learning React and the modern JavaScript ecosystem
-* Interested in software architecture, APIs and performance
-* I like turning ideas into complete, usable projects
+- Developing custom Minecraft plugins and server systems
+- Building backend logic, APIs and integrations
+- Working with web technologies and interactive websites
+- Interested in software architecture, performance and maintainable code
+- Always experimenting with new ideas and projects
 
-### Currently Working with:
+## Technologies
 
-`Java` · `JavaScript` · `Python` · `HTML` · `CSS` 
+**Main technologies**
 
-### Previous experience:
+`Java` · `JavaScript` · `HTML` · `CSS`
 
-`Lua` · `Luau` -- 2 Years of roblox dev.
+**Previous experience**
 
-### Maybe someday i'll explore
+`Lua` · `Luau` — Roblox development
 
-`React` · `TypeScript` · `Node.js` · `REST APIs` · `Gattling`
+## Tools
 
-### Tools
+`Git` · `GitHub` · `Maven` · `IntelliJ IDEA` · `VS Code` · `SQLite` · `PowerShell` · `Roblox Studio`
 
-`Git` · `GitHub` · `Maven` · `IntelliJ IDEA` · `VS Code` · `SQLite` · `FL Studio` · `Krita` · `PowerShell` · `Roblox Studio`
-
-### Stack
-
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css,arch,maven,idea,lua,robloxstudio" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,html,css,maven,idea,lua,robloxstudio" />
+</p>
 
 ## What I Build
 
-```text
-Software Development
-├── Web Applications
-│   ├── Responsive Interfaces
-│   ├── Interactive Websites
-│   └── Maybe react
-│
-├── Backend
-│   ├── APIs
-│   ├── Databases
-│   ├── Integrations
-│   └── Application Logic
-│
-├── Game Development
-│   ├── Minecraft Systems
-│   ├── Roblox / Lua
-│   └── Server Tools
-│
-└── Automation
-    ├── Python Tools
-    └── Developer Utilities
-```
+- **Minecraft Development** — Custom plugins, gameplay systems and server tools.
+- **Backend Development** — APIs, integrations and application logic.
+- **Web Development** — Websites and interactive interfaces.
+- **Game Development** — Game-related tools and experimental projects.
 
 ## Portfolio
-Coming soon
 
-## Currently Learning
-
-Making better Things on minecraft
-
+prontillo prontillo
 
 ---
 
-Always experimenting, building and learning something new.
-
+<p align="center">
+  Always experimenting, building and improving.
+</p>
